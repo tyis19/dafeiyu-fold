@@ -168,8 +168,6 @@ Firefox 不用设置。
 3. 域名必须是 `www.bilibili.com`、`t.bilibili.com` 或 `space.bilibili.com`
 4. 脚本管理器里确认脚本是启用状态
 
-还是不行的话，去 [Issues](https://github.com/tyis19/dafeiyu-fold/issues) 反馈，附上浏览器版本和 F12 控制台的报错。
-
 ## 贡献者
 
 | 贡献者 | 做了哪些事 |
